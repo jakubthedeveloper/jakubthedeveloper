@@ -7,7 +7,7 @@ I’m still a developer at heart — just one who now builds **systems, teams, a
 ---
 
 ## ⚡ What I’ve Done
-- Started as a **PHP/C++ developer** — strong fundamentals, performance, clean code.  
+- Started as a **PHP/C++ developer**, added **Python** later on.
 - Over the years (since **2005**) I’ve worked with **so many languages, stacks, tools, and technologies** that it’s impossible to list them all — exploring tech has been a constant part of my journey.  
 - Became a **Tech Lead** — guiding decisions, mentoring, making engineering flow smoother.  
 - Evolved into a **Software Architect** — designing scalable systems and aligning tech with business.  
