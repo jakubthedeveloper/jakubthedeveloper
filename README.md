@@ -1,5 +1,3 @@
-## jakubthedeveloper
-
 Embedded C · C++ · Python · MIDI · analog electronics · whatever it takes.
 
 I don't pick a language. I pick a problem, then reach for the right tool —
